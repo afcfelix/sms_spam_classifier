@@ -30,6 +30,6 @@ This project builds an SMS spam classifier using machine learning. It involves d
 To set up the project, clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/naman-sethiya/SMS-Spam-Classifier.git
+git clone https://github.com/afcfelix/sms_spam_classifier.git
 cd SMS-Spam-Classifier
 pip install -r requirements.txt
